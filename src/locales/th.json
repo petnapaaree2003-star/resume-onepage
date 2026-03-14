@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "about": "เกี่ยวกับฉัน",
+    "experience": "ประสบการณ์",
+    "skills": "ทักษะ",
+    "contact": "ติดต่อ"
+  },
+  "hero": {
+    "description": "พัฒนาเว็บ Resume แบบหน้าเดียวด้วย React, Vite และ TypeScript โดยใช้โครงสร้าง Component ที่เป็นระบบ ออกแบบโปรเจกต์ตามมาตรฐาน Frontend สมัยใหม่ และจัดการเวอร์ชันโค้ดด้วย Git พร้อมตั้งค่าการ Deploy ด้วย CI/CD",
+    "fullname": "เพชรนภา อารีย์"
+  },
+  "about": {
+    "title": "ข้อมูลส่วนตัว",
+    "name": "ชื่อ",
+    "surname": "นางสาวเพชรนภา อารีย์",
+    "dob": "วันเกิด",
+    "dateOfBirth": "4 สิงหาคม 2546",
+    "citizenship": "สัญชาติ",
+    "nationality": "ไทย",
+    "gender": "เพศ",
+    "sex": "หญิง"
+  },
+  "skills": {
+    "title": "ทักษะ",
+    "technical": "ทักษะด้านเทคนิค",
+    "soft": "ทักษะด้านบุคคล",
+
+    "react": "React (โครงสร้างแบบ Component)",
+    "typescript": "TypeScript",
+    "vite": "Vite",
+    "htmlcss": "HTML5 / CSS3",
+    "git": "Git และ GitHub (การทำงานแบบ Branch)",
+
+    "problem": "การแก้ปัญหา",
+    "learning": "การเรียนรู้ด้วยตนเองและการค้นคว้า"
+  },
+  "projects": {
+    "title": "ประสบการณ์",
+    "position": "นักพัฒนา Frontend",
+    "project": "โปรเจกต์ส่วนตัว",
+    "desc1": "ออกแบบและพัฒนาเว็บ Resume แบบหน้าเดียวโดยใช้ React, Vite และ TypeScript พร้อมโครงสร้าง Component ที่เป็นระบบ",
+    "desc2": "พัฒนา UI ให้รองรับการใช้งานบนหลายอุปกรณ์และหน้าจอ (Responsive Design)",
+    "desc3": "จัดการซอร์สโค้ดด้วย Git โดยใช้ workflow แบบแยก branch ตามแนวปฏิบัติของการควบคุมเวอร์ชัน",
+    "desc4": "ตั้งค่าการ build และ deploy ระบบสู่ production พร้อมใช้งาน CI/CD"
+},
+  "contact": {
+    "title": "ติดต่อ",
+    "phone": "โทร",
+    "email": "อีเมล",
+    "address": "ที่อยู่",
+    "house": "317/7 ถนนเจริญประเทศ ตำบลช้างคลาน อำเภอเมืองเชียงใหม่ จังหวัดเชียงใหม่ 50100"
+  }
+
+}

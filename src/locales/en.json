@@ -1,0 +1,53 @@
+{
+  "navbar": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "description": "Independently developed a One-Page Resume web application using React, Vite, and TypeScript, implementing a well-structured component-based architecture. Designed and organized the project following modern frontend engineering standards and managed version control with Git. Configured deployment through CI/CD workflow to ensure efficient updates.",
+    "fullname": "Petnapa Aree"
+  },
+  "about": {
+    "title": "Personal Details",
+    "name": "Name",
+    "surname": "Ms.Petnapa Aree",
+    "dob": "Date Of Birth",
+    "dateOfBirth": "4 August 2003",
+    "citizenship": "Citizenship",
+    "nationality": "Thai",
+    "gender": "Gender",
+    "sex": "Female"
+  },
+  "skills": {
+    "title": "Skills",
+    "technical": "Technical Skills",
+    "soft": "Soft Skills",
+
+    "react": "React (Component-Based Architecture)",
+    "typescript": "TypeScript",
+    "vite": "Vite",
+    "htmlcss": "HTML5 / CSS3",
+    "git": "Git & GitHub (Branching Workflow)",
+
+    "problem": "Problem-Solving",
+    "learning": "Self-Learning & Research Skills"
+  },
+  "projects": {
+    "title": "Experience",
+    "position": "Frontend Developer",
+    "project": "Self-Directed Project",
+    "desc1": "Designed and developed a One-Page Resume web application using React, Vite, and TypeScript with structured component-based architecture.",
+    "desc2": "Implemented responsive UI and ensured cross-device compatibility.",
+    "desc3": "Managed source code with Git using branch-based workflow and best version control practices.",
+    "desc4": "Configured build optimization and deployed to production environment with CI/CD integration."
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "house": "317/7 Charoen Prathet Rd.,Chang Khlan Subdistrict,Mueang Chiang Mai District,Chiang Mai Province 50100"
+  }
+}
